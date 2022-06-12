@@ -1,3 +1,3 @@
 
 def get_employees():
-    print('Функция - get_employees')
+    print('Выполнена функция - get_employees')

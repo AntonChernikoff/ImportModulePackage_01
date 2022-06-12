@@ -1,3 +1,3 @@
 
 def calculate_salary():
-    print('Функция - calculate_salary')
+    print('Выполнена функция - calculate_salary')

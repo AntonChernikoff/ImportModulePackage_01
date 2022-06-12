@@ -1,3 +1,3 @@
 def dirty_main():
-    print('Функция - dirty_main')
+    print('Выполнена функция- dirty_main')
 
